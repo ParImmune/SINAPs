@@ -1,0 +1,8 @@
+AA1 AA2 Pos_AA1_Traj1 Pos_AA2_Traj1 Pos_AA1_Traj2 Pos_AA2_Traj2 Freq_Aro_Traj1 Freq_Aro_Traj2 Freq_PiStacking_Traj1 Freq_PiStacking_Traj2 Freq_LT_Shapes_Traj1 Freq_LT_Shapes_Traj2 Freq_T_Shape_Traj1 Freq_T_Shape_Traj2 Freq_L_Shape_Traj1 Freq_L_Shape_Traj2
+:141@CA :144@CA -1 -1 561 573 -1 1.0 -1 0.0 -1 1.0 -1 1.0 -1 0.0
+:144@CA :230@CA 573 917 -1 -1 1.0 -1 0.0 -1 1.0 -1 1.0 -1 0.0 -1
+:15@CA :19@CA 57 73 57 73 1.0 1.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0 0.0
+:15@CA :80@CA 57 317 57 317 1.0 1.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0 0.0
+:63@CA :141@CA 249 561 249 561 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0
+:63@CA :144@CA -1 -1 249 573 -1 1.0 -1 0.0 -1 1.0 -1 1.0 -1 0.0
+:68@CA :247@CA 269 985 269 985 1.0 1.0 0.0 0.0 1.0 1.0 0.0 1.0 1.0 0.0
