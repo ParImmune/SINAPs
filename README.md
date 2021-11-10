@@ -1,21 +1,15 @@
-#######################################################################################################################~
-#
-# Copyright Par'Immune 2021 - GPL-3.0-only
-#
-# SINAPs is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
-#
-#######################################################################################################################~
+Copyright Par'Immune 2021 - GPL-3.0-only
+
+SINAPs is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 
-################
-# Requirements #
-################
+
+
+# Requirements
 
 - Required OS for SINAPs software = Linux (tested under Ubuntu 18.04 LTS and 20.04 LTS), but can work under Windows and Mac using Anaconda
 - Required OS for SINAPs visualization plugin = Windows, Linux, Mac (tested under Windows 10, MacOS Catalina, Ubuntu 18.04 LTS and 20.04 LTS)
@@ -25,9 +19,9 @@
 - No UCSF Chimera version required, but a recent build is recommended (1.14 or 1.15)
 
 
-################
-# Installation #
-################
+
+# Installation
+
 
 Recommended installation (via conda) :
 > conda create --name SINAPs python=3.7
@@ -47,9 +41,8 @@ Implementation of the SINAPs visualization plugin in UCSF Chimera:
 > Specify the path to the SINAPs folder (/!\ Do not specify the SINAPs_Visualizer folder, but the previous one /!\)
 
 
-#######################
-# General information #
-#######################
+
+# General information
 
 - Input files:
 	- AMBER trajectories (parm7/nc but other format are tolerated)
@@ -60,9 +53,8 @@ Implementation of the SINAPs visualization plugin in UCSF Chimera:
 - Only the 20 proteinogenic amino acids were tested.
 
 
-################
-# Using SINAPs #
-################
+
+# Using SINAPs
 
 Using SINAPs :
 - Information to be specified:
